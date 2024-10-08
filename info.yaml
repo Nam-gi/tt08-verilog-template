@@ -23,14 +23,14 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: "compare[11]"
-  ui[1]: "compare[12]"
-  ui[2]: "compare[13]"
-  ui[3]: "compare[14]"
-  ui[4]: "compare[15]"
-  ui[5]: "compare[16]"
-  ui[6]: "compare[17]"
-  ui[7]: "compare[18]"
+  ui[0]: "compare bit 11"
+  ui[1]: "compare bit 12"
+  ui[2]: "compare bit 13"
+  ui[3]: "compare bit 14"
+  ui[4]: "compare bit 15"
+  ui[5]: "compare bit 16"
+  ui[6]: "compare bit 17"
+  ui[7]: "compare bit 18"
 
  
   # Outputs
