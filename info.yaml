@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
-  title:        "7 segment seconds (Verilog Demo)"      # Project title
-  author:       "onestwob"      # Your name
+  title:        "7 segment seconds"      # Project title
+  author:       "namgi"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Count up to 10, one second at a time."      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
