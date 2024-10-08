@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The project shifts an 8-bit input signal right by 10 bits and increments a counter from 0 to 9 when the result is zero, displaying the value on a seven-segment display.
 
 ## How to test
 
-Explain how to use your project
+Provide an 8-bit input signal and verify that the seven-segment display correctly shows the counter incrementing from 0 to 9.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Requires a seven-segment display for output and a clock signal for timing; no additional hardware is needed.
